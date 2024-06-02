@@ -1,0 +1,16 @@
+{
+  "name": "front-end-mentor-testemonial-grid-section",
+  "version": "1.0.0",
+  "description": "Front-end Mentor project to learn about css grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "front-end",
+    "mentor",
+    "grid-section"
+  ],
+  "author": "Remco Jonk",
+  "license": "ISC"
+}
